@@ -25,9 +25,10 @@ To start the generator just type the command:
 ```
 
 
-## Autores
+## Screenshots
+Result of the command, as already explained it creates a text file.
 
-- [@raineridev](https://www.github.com/raineridev)
+![Result](https://media.discordapp.net/attachments/1062628156806287381/1064378290619547658/image.png)
 
 
 ## Feedback
@@ -35,10 +36,9 @@ To start the generator just type the command:
 If you have any feedback, please let us know via Discord: Raineri#0001.
 
 
-## Screenshots
-Result of the command, as already explained it creates a text file.
+## Autores
 
-![Result](https://media.discordapp.net/attachments/1062628156806287381/1064378290619547658/image.png)
+- [@raineridev](https://www.github.com/raineridev)
 
 
 ## Final message

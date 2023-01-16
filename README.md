@@ -18,7 +18,7 @@ To start the generator just type the command:
 - Analyze previous lotteries through the Interactive Panel
 
 
-## Uso/Exemplos
+## Usage/Examples
 
 ```javascript
     lot(60) //Inside the function has the maximum number value to be generated

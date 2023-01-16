@@ -36,7 +36,7 @@ Result of the command, as already explained it creates a text file.
 If you have any feedback, please let us know via Discord: Raineri#0001.
 
 
-## Autores
+## Authors
 
 - [@raineridev](https://www.github.com/raineridev)
 

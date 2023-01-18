@@ -10,7 +10,7 @@ while (moves <= 6) {
     moves++;
     lot(60)
 }
-console.log(drawnNumbers)
+console.log(drawnNumbers);
 
 
 let texto = drawnNumbers.join(',');

@@ -28,7 +28,7 @@ To start the generator just type the command:
 ## Screenshots
 Result of the command, as already explained it creates a text file.
 
-![Result](https://media.discordapp.net/attachments/1062628156806287381/1064378290619547658/image.png)
+![Result](https://media.discordapp.net/attachments/1080586501387190344/1225800942805585950/image.png?ex=66227317&is=660ffe17&hm=4367216d56e46adadcdb687ee31ec5c95e9bd1e0282f4913a87da2d85c2c690e&=&format=webp&quality=lossless&width=480&height=56)
 
 
 ## Feedback

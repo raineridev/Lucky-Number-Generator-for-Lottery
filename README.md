@@ -33,7 +33,7 @@ Result of the command, as already explained it creates a text file.
 
 ## Feedback
 
-If you have any feedback, please let us know via Discord: Raineri#0001.
+If you have any feedback, please let us know via Discord: raineridev.
 
 
 ## Authors

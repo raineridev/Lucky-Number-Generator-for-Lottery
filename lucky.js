@@ -11,6 +11,6 @@ for(let moves = 1; moves <= 6; moves++) {
 console.log(drawnNumbers);
 
 
-let texto = drawnNumbers.join(',');
-fs.writeFileSync('lucky-numbers.txt', texto);
+let text = drawnNumbers.join(',');
+fs.writeFileSync('lucky-numbers.txt', text);
 console.log('Text file generated successfully!');
